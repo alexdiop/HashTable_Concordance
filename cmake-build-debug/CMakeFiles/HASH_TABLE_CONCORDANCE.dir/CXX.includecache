@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/Desktop/CLION_WORKSPACE/HASH_TABLE_CONCORDANCE/Dictionary.h
+Entry.h
+/Users/alex/Desktop/CLION_WORKSPACE/HASH_TABLE_CONCORDANCE/Entry.h
+
+/Users/alex/Desktop/CLION_WORKSPACE/HASH_TABLE_CONCORDANCE/Entry.h
+vector
+-
+iostream
+-
+string
+-
+
+/Users/alex/Desktop/CLION_WORKSPACE/HASH_TABLE_CONCORDANCE/StartingConcordance.cpp
+Dictionary.h
+/Users/alex/Desktop/CLION_WORKSPACE/HASH_TABLE_CONCORDANCE/Dictionary.h
+fstream
+-
+ctype.h
+-
+sstream
+-
+
